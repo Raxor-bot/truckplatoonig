@@ -7,7 +7,7 @@
 #
 # Then, build the image with:
 #
-# docker build -f src/main/docker/Dockerfile.legacy-jar -t quarkus/truckplatoonig-legacy-jar .
+# docker build -f src/Main/docker/Dockerfile.legacy-jar -t quarkus/truckplatoonig-legacy-jar .
 #
 # Then run the container using:
 #
